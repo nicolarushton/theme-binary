@@ -2351,10 +2351,9 @@ html {
 }
 body {
   color: #3D404C;
-  line-height: 1.45;
+  line-height: 1.5;
   font-family: 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 14px;
-  font-size: 0.975rem;
   background-color: #f3f0eb;
 }
 /**
